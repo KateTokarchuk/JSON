@@ -7,5 +7,4 @@
  "5. Select Extra sauce by pressing the letter Y and press Enter to confirm",
  "6.Compare line 2 from block 1 with line 2 from block 2 (See Attach №11.1)",
  "7. Compare line 3 from block 1 with line 3 from block 2 (See Attach №11.2)",
- "Actual Result": "The names of the products in the first and second blocks namely in the second and third lines do not match",
- "Expected Result: "The names of the products in the first and second blocks namely in the second and third lines have to match"}
+ "Actual Result": "The names of the products in the first and second blocks namely in the second and third lines do not match"}
